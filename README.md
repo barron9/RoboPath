@@ -29,4 +29,6 @@ Boustrophedon decomposition meets real-time A\* obstacle routing — visualized,
 [![React](https://img.shields.io/badge/React-18-61DAFB)](https://reactjs.org/)
 
 <br/>
+[**Live Demo →**](https://barron9.github.io/RoboPath) 
+
 ![RoboPath Demo](https://raw.githubusercontent.com/barron9/robopath/gh-pages/demo.gif)
